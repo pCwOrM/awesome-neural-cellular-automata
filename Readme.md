@@ -69,7 +69,8 @@ Training an end-to-end differentiable, self-organising cellular automata model o
     - [Full YouTube Playlist](https://www.youtube.com/playlist?list=PL23FjyM69j910zCdDFVWcjSIKHbSB7NE8)
 
 - **Projects & Tools**
-  - [NeuralCA.org](https://www.neuralca.org/) | [GitHub](https://github.com/MonashDeepNeuron/Neural-Cellular-Automata)
+
+  - [Mandelbrot Fractal Neural Synthesis](https://github.com/pCwOrM/mandelbrot-fractal-neural-synthesis) | [Zenodo DOI](https://doi.org/10.5281/zenodo.22867037) – Zero-storage procedural weight derivation and non-linear decision boundaries from Mandelbrot escape dynamics.  - [NeuralCA.org](https://www.neuralca.org/) | [GitHub](https://github.com/MonashDeepNeuron/Neural-Cellular-Automata)
   - [Google Self-organising Systems](https://github.com/google-research/self-organising-systems/)
 
 - **Others**
